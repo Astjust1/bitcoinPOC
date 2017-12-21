@@ -1,5 +1,5 @@
 {
-  "name": "memechain",
+  "name": "bitcoinPOC",
   "version": "1.0.0",
   "description": "Tiny blockchain using memes!",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "idgen": "^2.0.2",
     "koa": "^2.4.1",
